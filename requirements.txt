@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+openai
+langgraph
+psycopg[binary]
+twilio
+python-dotenv
+dateparser
